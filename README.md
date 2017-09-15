@@ -1,6 +1,8 @@
 # TFM
+Luis González - Pavla Fuxova
 TFM Master Data Science
 
+Predicting wine quality from reviews
 
 Content
 
